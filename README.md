@@ -3,9 +3,9 @@
   <p> A Feedback widget built using React JS and Tailwind CSS</p>
   <p>Get feedback from your customers with screenshots directly from your app. Fast, easy and built-in</p>
   
-  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/BinaryLeo/react_feedback_widget_web/blob/main/LICENSE)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/BinaryLeo/react_feedback_widget_web?style=flat-square)
-  ![GitHub top language](https://img.shields.io/github/languages/top/BinaryLeo/react_feedback_widget_web?style=flat-square)
+  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/brainstorm322/react_feedback_widget_web/blob/main/LICENSE)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/brainstorm322/react_feedback_widget_web?style=flat-square)
+  ![GitHub top language](https://img.shields.io/github/languages/top/brainstorm322/react_feedback_widget_web?style=flat-square)
   
 </div>
 <p align="center">
@@ -13,7 +13,6 @@
   <a href="#-how-it-works">How it works</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
-
 </p>
 <div>
 
@@ -29,9 +28,9 @@
 
 ## 🧪 technologies
 
-* [Frontend](https://github.com/BinaryLeo/react_feedback_widget_web/tree/main/web)  - [ReactJS](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [ViteJS](https://vitejs.dev/), [Phosphor Icons](https://phosphoricons.com/).
-* [Backend](https://github.com/BinaryLeo/react_feedback_widget_web/tree/main/server) - [Express](https://expressjs.com/), [Typescript](https://www.typescriptlang.org/), [Prisma](https://www.prisma.io/), [Mailtrap](https://mailtrap.io/), [Nodemailer](https://nodemailer.com/), [Jest](https://jestjs.io/), [PostgreSQL](https://www.postgresql.org/), [Postman](https://www.postman.com/).
-* [Mobile application](https://github.com/BinaryLeo/react_feedback_widget_web/tree/main/mobile) - [React native](https://reactnative.dev/), [Expo](https://expo.dev/expo-go), [Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/).
+* [Frontend](https://github.com/brainstorm322/react_feedback_widget_web/tree/main/web)  - [ReactJS](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Typescript](https://www.typescriptlang.org/), [ViteJS](https://vitejs.dev/), [Phosphor Icons](https://phosphoricons.com/).
+* [Backend](https://github.com/brainstorm322/react_feedback_widget_web/tree/main/server) - [Express](https://expressjs.com/), [Typescript](https://www.typescriptlang.org/), [Prisma](https://www.prisma.io/), [Mailtrap](https://mailtrap.io/), [Nodemailer](https://nodemailer.com/), [Jest](https://jestjs.io/), [PostgreSQL](https://www.postgresql.org/), [Postman](https://www.postman.com/).
+* [Mobile application](https://github.com/brainstorm322/react_feedback_widget_web/tree/main/mobile) - [React native](https://reactnative.dev/), [Expo](https://expo.dev/expo-go), [Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/).
 
 ## 💡 how it works
 This is a feedback widget built with React to be applied on any website for a simple interaction between the customer and the company.
