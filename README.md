@@ -2,11 +2,6 @@
 <div align="center" style="margin: 20px; text-align: center">
   <p> A Feedback widget built using React JS and Tailwind CSS</p>
   <p>Get feedback from your customers with screenshots directly from your app. Fast, easy and built-in</p>
-  
-  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/brainstorm322/react_feedback_widget_web/blob/main/LICENSE)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/brainstorm322/react_feedback_widget_web?style=flat-square)
-  ![GitHub top language](https://img.shields.io/github/languages/top/brainstorm322/react_feedback_widget_web?style=flat-square)
-  
 </div>
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
